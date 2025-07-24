@@ -1,5 +1,5 @@
 # GFLC: Graph-based Fairness-aware Label Correction 
-# Accepted at Baltic Journal of Modern Computing
+(Accepted at Baltic Journal of Modern Computing)
 
 
 > ⚠️ **Work in Progress**: This repository is currently under development. Updates and improvements will be added in the near future.
