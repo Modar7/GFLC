@@ -135,6 +135,5 @@ score(i) = α × margin_term(i) + β × laplacian_term(i) + γ × fairness_term(
 Licensed under the [MIT License](License).
 
 ## Contact
-
 For questions or issues, please contact [modar.sulaiman@ut.ee].
 
