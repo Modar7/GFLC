@@ -129,9 +129,7 @@ y_corrected = gflc.correct_labels(
     disparity_target=0.05
 )
 end_time = time.time()
-print(type(y_corrected))
-print(y_corrected.shape)
-print(classification_report(y_train1, y_corrected, target_names=['0', '1']))
+print(f"Completed in {end_time - start_time:.2f} seconds")
 
 
 
